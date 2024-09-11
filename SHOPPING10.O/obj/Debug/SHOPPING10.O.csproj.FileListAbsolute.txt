@@ -1,0 +1,7 @@
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\bin\Debug\SHOPPING10.O.exe.config
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\bin\Debug\SHOPPING10.O.exe
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\bin\Debug\SHOPPING10.O.pdb
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\obj\Debug\SHOPPING10.O.csproj.AssemblyReference.cache
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\obj\Debug\SHOPPING10.O.csproj.CoreCompileInputs.cache
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\obj\Debug\SHOPPING10.O.exe
+C:\Users\inaya\source\repos\SHOPPING10.O\SHOPPING10.O\obj\Debug\SHOPPING10.O.pdb
